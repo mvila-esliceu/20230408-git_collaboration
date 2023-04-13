@@ -55,3 +55,11 @@
 	- 'git rebase --abort': go back to before you typed 'git rebase main'
 
 
+
+## Git Flow
+
+- https://www.atlassian.com/git/tutorials/syncing
+- https://www.atlassian.com/git/tutorials/comparing-workflows
+
+
+A convention people use for branches to separate "main"/"production" from "development" code
