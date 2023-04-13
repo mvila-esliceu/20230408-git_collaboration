@@ -1,4 +1,4 @@
-# 20230408-git_collaboration
+# 20230408: git_collaboration
 
 ## Creating a local repository
 - 'git clone <URL>': downloads  the repo to your current directory
@@ -40,3 +40,6 @@
 
 
 - pull requests will auto update when you push changes to the branch
+
+
+Changes to readme on conflict 1
