@@ -52,6 +52,6 @@
 - 'git switch conflict_2'
 - 'git rebase main'
 - 'git rebase': command to change history, we are using it to fix conflict
-	- 'git rebase --abort'
+	- 'git rebase --abort': go back to before you typed 'git rebase main'
 
 
