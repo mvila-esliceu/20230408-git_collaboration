@@ -63,3 +63,10 @@
 
 
 A convention people use for branches to separate "main"/"production" from "development" code
+
+
+## Extras
+
+- Problem: I just want my files to be somewhere else (commit)
+	- solutions: 'git reset --hard <HASH>' --> move HEAD and the branch you are on to wherever you specified <HASH>
+	
