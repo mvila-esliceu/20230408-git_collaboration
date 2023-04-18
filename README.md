@@ -1,4 +1,4 @@
-# 20230408: Git Collaboration
+# 20230408: Git Col.laboration
 
 
 ## Creating a local repository
